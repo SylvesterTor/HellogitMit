@@ -1,0 +1,5 @@
+D:\dokumenter\programmering\skole-programmering\2.g\CSharp\obj\Debug\net6.0\CSharp.csproj.AssemblyReference.cache
+D:\dokumenter\programmering\skole-programmering\2.g\CSharp\obj\Debug\net6.0\CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\dokumenter\programmering\skole-programmering\2.g\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfoInputs.cache
+D:\dokumenter\programmering\skole-programmering\2.g\CSharp\obj\Debug\net6.0\CSharp.AssemblyInfo.cs
+D:\dokumenter\programmering\skole-programmering\2.g\CSharp\obj\Debug\net6.0\CSharp.csproj.CoreCompileInputs.cache
